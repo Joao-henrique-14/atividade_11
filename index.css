@@ -1,0 +1,31 @@
+body{
+    text-align: center;background-color:gray;font-size: 24px;font-family: Arial, Helvetica, sans-serif;
+}
+#botao1{
+    border: 2px solid blue;background-color: white;padding: 4px 4px;transition-duration: 0.4s;
+
+}
+#botao1:hover{
+    border: none;background-color: #003243;color: white; cursor: pointer;
+}
+#botao2{
+    border: 2px solid blue;background-color: white;padding: 4px 4px;transition-duration: 0.4s;
+
+}
+#botao2:hover{
+    border: none;background-color: #003243;color: white; cursor: pointer;
+}
+#botao3{
+    border: 2px solid blue;background-color: white;padding: 4px 4px;transition-duration: 0.4s;
+
+}
+#botao3:hover{
+    border: none;background-color: #003243;color: white; cursor: pointer;
+}
+#botao4{
+    border: 2px solid blue;background-color: white;padding: 4px 4px;transition-duration: 0.4s;
+}
+#botao4:hover{
+    border: none;background-color: #003243;color: white; cursor: pointer;
+}
+
